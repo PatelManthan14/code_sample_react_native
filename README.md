@@ -1,4 +1,4 @@
-We employ a feature-based architecture, separating code into distinct folders (auth, app intro, dashboards, home, etc.) within the src/features directory. Index files manage imports and exports, allowing multiple team members to work simultaneously without conflicts. This approach ensures scalability and maintainability as new features can be added easily without disrupting existing functionality.
+# We employ a feature-based architecture, separating code into distinct folders (auth, app intro, dashboards, home, etc.) within the src/features directory. Index files manage imports and exports, allowing multiple team members to work simultaneously without conflicts. This approach ensures scalability and maintainability as new features can be added easily without disrupting existing functionality.
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
